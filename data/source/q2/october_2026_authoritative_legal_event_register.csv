@@ -1,0 +1,11 @@
+source_id,issued,event,effective,local_document,official_url,verification_note
+11046,2026-07-20,original_tariff,2026-08-22,2026-14991.pdf,https://www.govinfo.gov/content/pkg/FR-2026-07-23/pdf/2026-14991.pdf,Original alcohol; full annex still unverified
+11047,2026-07-20,original_tariff,2026-08-22,2026-14992.pdf,https://www.govinfo.gov/content/pkg/FR-2026-07-23/pdf/2026-14992.pdf,Original dairy; full annex still unverified
+11048,2026-07-20,original_tariff,2026-08-22,2026-14997.pdf,https://www.govinfo.gov/content/pkg/FR-2026-07-23/pdf/2026-14997.pdf,Original motor vehicles; full annex still unverified
+11056,2026-08-18,three_day_effective_date_suspension,2026-08-22,2026-17294.pdf,https://www.govinfo.gov/content/pkg/FR-2026-08-24/pdf/2026-17294.pdf,Changes all three effective dates from August 19 to August 22; not an ongoing suspension
+11064,2026-09-08,alcohol_amendment,2026-09-15,2026-18838.pdf,https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18838.pdf,"Separate alcohol modification; MUST reconcile, not yet in partial 11065 dataset"
+11065,2026-09-08,motor_vehicle_amendment,2026-09-15,2026-18839.pdf,https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18839.pdf,Existing 82 additions and eight removals are only a partial scope ledger
+11063,2026-09-08,import_prohibition,2026-09-29,2026-18837.pdf,https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18837.pdf,Track import prohibition separately from tariff exposure
+USITC_REV21,2026-10-09,tariff_schedule,2026-10-09,hts_2026_revision_21_csv.csv,https://www.usitc.gov/sites/default/files/tata/hts/hts_2026_revision_21_csv.csv,Official current revision identified but CSV not locally downloaded or reconciled
+CBP_GUIDANCE,2026-08-22,implementation_guidance,2026-08-22,,https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4261d04,Chapter 99 9903.03.12–.16 and Section 232 / civil-aircraft exclusions
+CBP_AMENDMENT,2026-09-15,implementation_guidance,2026-09-15,,https://content.govdelivery.com/accounts/USDHSCBP/bulletins/429db0c,CBP confirms both alcohol and motor-vehicle scope amendments

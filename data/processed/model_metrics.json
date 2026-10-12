@@ -1,0 +1,8 @@
+{
+  "validation": "held-out exporters MX and GB; model excludes origin identity",
+  "n_train": 36840,
+  "n_test": 14736,
+  "mae_usd_thousands": 44864.05032272586,
+  "rmse_usd_thousands": 764731.8787992368,
+  "r2_raw_values": 0.031750994549784695
+}

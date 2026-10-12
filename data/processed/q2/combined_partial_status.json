@@ -1,0 +1,19 @@
+{
+  "as_of": "2026-10-12",
+  "certified_exposure_permitted": false,
+  "original_codes_first_page_only": 32,
+  "amendment_additions": 82,
+  "amendment_removals": 8,
+  "combined_unique_candidate_hts": 108,
+  "combined_unique_hs6": 56,
+  "unmatched_removals": 5,
+  "total_canada_exports_cad": 517282733046,
+  "partial_hs6_screen_cad": 6619437433,
+  "partial_screen_not_total_exposure": true,
+  "legal_effective_date_corrected": "2026-08-22",
+  "proclamation_11056_included_in_legal_register": true,
+  "proclamation_11064_alcohol_amendment_missing_from_partial_code_universe": true,
+  "usitc_2026_revision_21_confirmed": true,
+  "usitc_2026_revision_21_csv_downloaded": false,
+  "legal_coverage_status": "INCOMPLETE; 11064 and full original annexes not reconciled"
+}

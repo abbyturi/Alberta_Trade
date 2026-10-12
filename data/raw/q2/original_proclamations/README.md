@@ -1,0 +1,1 @@
+Original official Federal Register PDFs supplied by user; SHA256 in sha256_manifest.csv. Annexes are image-based. Original code transcription is incomplete. Do not infer active tariff coverage merely from the presence of these files.

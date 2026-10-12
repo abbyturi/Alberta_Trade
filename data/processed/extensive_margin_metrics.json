@@ -1,0 +1,5 @@
+{
+  "roc_auc": 0.842213941160837,
+  "average_precision": 0.9321069366873521,
+  "test_positive_share": 0.7378528773072747
+}

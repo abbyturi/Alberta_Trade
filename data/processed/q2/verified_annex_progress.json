@@ -1,0 +1,14 @@
+{
+  "source": "Federal Register Proclamation 11065 Annex II and 11063 Annex I",
+  "verified_amendment_additions": 82,
+  "verified_amendment_removals": 8,
+  "verified_prohibitions": 1,
+  "original_11046_11047_11048_annexes_included": false,
+  "active_tariff_universe_complete": false,
+  "safe_to_publish_national_tariff_exposure": false,
+  "reference_date": "2026-10-12",
+  "legal_sources": [
+    "https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18839.pdf",
+    "https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18837.pdf"
+  ]
+}

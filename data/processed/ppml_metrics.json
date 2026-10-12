@@ -1,0 +1,13 @@
+{
+  "model": "PPML ridge-penalized baseline",
+  "test_exporters": [
+    "MX",
+    "GB"
+  ],
+  "n_train": 36840,
+  "n_test": 14736,
+  "mae_usd_thousands": 91691.5127683545,
+  "r2_value": 0.030888324165171732,
+  "wape": 2.0219005207616267,
+  "caveat": "Penalized Poisson quasi-likelihood; not a structural gravity estimate; missing multilateral resistance and HS4 fixed effects."
+}

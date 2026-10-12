@@ -1,0 +1,11 @@
+{
+  "as_of": "2026-10-12",
+  "active_tariff_universe_complete": false,
+  "certified_exposure_permitted": false,
+  "original_proclamation_annexes_extracted_completely": false,
+  "known_amendment_additions_active": 82,
+  "unique_amendment_hs6": 48,
+  "unmatched_removals_to_reconcile_against_originals": 8,
+  "prohibition_events_separate": 1,
+  "note": "Partial HS6 category screening only; do not interpret as duties paid, trade lost, or total Section 338 exposure."
+}

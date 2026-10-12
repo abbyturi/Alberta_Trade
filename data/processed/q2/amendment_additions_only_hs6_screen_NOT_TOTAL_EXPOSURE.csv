@@ -1,0 +1,12 @@
+province_code,province_name,matched_hs6_category_value_cad,coverage_note
+AB,Alberta,339246567,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+BC,British Columbia,1195007840,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+MB,Manitoba,194123951,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+NB,New Brunswick,220232718,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+NL,Newfoundland and Labrador,671621,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+NS,Nova Scotia,267361322,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+ON,Ontario,4274336351,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+PE,Prince Edward Island,951862,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+QC,Quebec,2278118489,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+SK,Saskatchewan,31392343,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+YT,Yukon,7078,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure

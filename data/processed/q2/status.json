@@ -1,0 +1,12 @@
+{
+  "export_source": "Original supplied Statistics Canada CIMT 2025 domestic exports ODPFN018 HS6",
+  "year": 2025,
+  "province_count": 13,
+  "total_canada_us_domestic_exports_cad": 517282733046.0,
+  "legal_measure_rows_verified": 0,
+  "policy_as_of": "2026-10-12",
+  "tariff_exposure_status": "BLOCKED_UNTIL_VERIFIED_HTS_LIST",
+  "prohibition_exposure_status": "BLOCKED_UNTIL_VERIFIED_HTS_LIST",
+  "legal_review_status": "INCOMPLETE_ANNEX_CODE_VERIFICATION",
+  "warning": "Do not equate HS6 exposure with exact HTS8/HTS10 coverage; partial matches are upper-bound category values."
+}

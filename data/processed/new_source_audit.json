@@ -1,0 +1,30 @@
+{
+  "expanded_baci_years": [
+    2022,
+    2023,
+    2024
+  ],
+  "baci_coverage": [
+    {
+      "year": 2022,
+      "raw_rows": 11007862,
+      "seven_economy_nonzero_rows": 42328
+    },
+    {
+      "year": 2023,
+      "raw_rows": 11641922,
+      "seven_economy_nonzero_rows": 42414
+    },
+    {
+      "year": 2024,
+      "raw_rows": 11250411,
+      "seven_economy_nonzero_rows": 42268
+    }
+  ],
+  "hs4_concordance_rows": 0,
+  "hs4_heading_status": "MISSING: supplied concordance has zero records; HS6 descriptions must not be mislabeled HS4",
+  "baci_units": "USD thousands",
+  "baci_trade_flow_status": "positive flows only; missing exporter/importer/product cells are not necessarily observed zeros",
+  "source_2025_observed": "previously extracted Statistics Canada domestic export records, CAD",
+  "global_predictions": "Not independently identified by seven-country training data"
+}

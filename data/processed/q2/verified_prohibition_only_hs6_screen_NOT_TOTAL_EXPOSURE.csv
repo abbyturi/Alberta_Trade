@@ -1,0 +1,3 @@
+province_code,province_name,matched_hs6_category_value_cad,coverage_note
+ON,Ontario,48320,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure
+QC,Quebec,115242835,Category-level screening only; HTS8/HTS10 may cover only part of HS6; NOT total Section 338 exposure

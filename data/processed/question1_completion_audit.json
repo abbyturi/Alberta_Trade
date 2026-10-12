@@ -1,0 +1,32 @@
+{
+  "observed_2025": {
+    "source": "provided data/source/alberta_2025_hs4.csv",
+    "top10_destinations": 10,
+    "top5_hs4_rows": 50,
+    "sum_top10_cad": 171118295313,
+    "raw_cimt_reconciled": false,
+    "official_hs4_titles_verified": false
+  },
+  "global_scenario": {
+    "method": "70% 2024 Alberta destination-HS4 exports + 30% Alberta 2024 HS4 supply allocated by BACI 2024 importer demand; normalize to 2024 Alberta exports",
+    "destinations_ranked": 223,
+    "top10_destinations": 10,
+    "top5_hs4_rows": 50,
+    "uses_2025_observed_in_prediction": false,
+    "independent_2025_forecast": false,
+    "machine_learning_global_forecast": false
+  },
+  "model": {
+    "test_r2": 0.040799,
+    "test_wape": 0.950669,
+    "test_log_rmse": 2.708821,
+    "validation_leakage_risk": "importer demand calculated before exporter holdout"
+  },
+  "remaining": [
+    "Official HS4 heading mapping",
+    "Independent raw 2025 CIMT reconciliation",
+    "Per-indicator WDI vintage audit",
+    "Leakage-safe ML validation",
+    "Genuine independently validated 2025 global forecast"
+  ]
+}
