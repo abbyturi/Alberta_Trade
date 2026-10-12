@@ -53,8 +53,6 @@ python run.py --new-sources --legal-audit --tests
 
 ## References
 
-## References
-
 \- Anderson, J. E., & van Wincoop, E. (2003). Gravity with gravitas: A solution to the border puzzle. American Economic Review, 93(1), 170–192. [https://doi.org/10.1257/000282803321455214](https://doi.org/10.1257/000282803321455214)
 
 \- Bank of Canada. (n.d.). Exchange rates. [https://www.bankofcanada.ca/rates/exchange/](https://www.bankofcanada.ca/rates/exchange/)
