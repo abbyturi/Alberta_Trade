@@ -13,8 +13,6 @@ The analysis focuses on two key areas:
 
 The project aims to translate complex trade data into actionable insights for evidence-based economic policy, export diversification, and strategic decision-making.
 
-> **Current entry point:** `python run.py` for both questions. See [RUN_GUIDE.md](RUN_GUIDE.md). 
-
 # Alberta merchandise exports: reproducible evidence and model audit
 
 ## Reproducible execution
