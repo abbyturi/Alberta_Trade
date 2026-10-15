@@ -1,4 +1,4 @@
-"""Audit-ready *partial* Section 338 legal event reconciliation; never certifies completeness.
+"""Audit-ready *partial* Section 338 legal event reconciliation.
 
 Legal HTS 8/10-digit codes are converted to 6-digit screening categories. An HTS
 heading containing 8 digits is not equivalent to full Canadian HS6 coverage.
